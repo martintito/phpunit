@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         // este archivo fue creado en la pc de la oficina!
         // esta linea se agregó en la laptop hp
-        
+        // esta linea se agrego desde netbeans de laptop hp y luego actualizo la repo remota en github
         ?>
     </body>
 </html>
